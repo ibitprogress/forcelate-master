@@ -1,0 +1,11 @@
+localhost:8080/article/
+
+POST mapping
+
+{
+	"text": "rrrr",
+	"color": "RED",
+	"user": {
+		"id":1 - user must be created
+	}
+}
